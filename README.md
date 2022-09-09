@@ -1,2 +1,2 @@
-# School
-School assignments 
+# Library
+Simple library program made in java
